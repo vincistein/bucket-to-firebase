@@ -1,2 +1,5 @@
 # bucket-to-firebase
-Función que transformar archivos JSON cargados en Cloud Storage en colecciones de Firebase.
+Funcion para crear collecciones de Firebase a partir de archivos cargados en Cloud Storage
+
+NOTA: Actualmente solo permite JSON
+    
